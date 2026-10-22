@@ -288,7 +288,7 @@ http://127.0.0.1:8000/docs
 Open another terminal:
 
 ```powershell
-cd C:\Users\shash\OneDrive\Desktop\multi-agent-financial-research\frontend
+cd C:\Users\Devendra\OneDrive\Desktop\multi-agent-financial-research\frontend
 ```
 
 Install frontend dependencies:
