@@ -1,9 +1,0 @@
-fastapi
-uvicorn[standard]
-sqlalchemy
-pydantic-settings
-python-multipart
-PyMuPDF
-chromadb
-openai
-reportlab
