@@ -228,7 +228,7 @@ Install:
 Open a terminal in the project folder:
 
 ```powershell
-cd C:\Users\shash\OneDrive\Desktop\multi-agent-financial-research\backend
+cd C:\Users\Lenovo\Downloads\multi-agent-financial-research-main\multi-agent-financial-research-main\frontend
 ```
 
 Create and activate a virtual environment:
